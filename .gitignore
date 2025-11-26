@@ -1,0 +1,20 @@
+# Python compilation archives
+__pycache__/
+*.pyc
+
+# Mac system files
+.DS_Store
+__MACOSX/
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Text files used for testing (optional, keep if you want them in repo)
+# test/
